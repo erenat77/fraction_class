@@ -9,3 +9,8 @@ print(myf)
 f1 = Fraction(1,4)
 f2 = Fraction(1,2)
 print(f1+f2)
+
+x = Fraction(1,2)
+y = Fraction(2,3)
+print(x+y)
+print(x == y)
